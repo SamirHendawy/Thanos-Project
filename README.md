@@ -1,2 +1,2 @@
-# Thanos-Project
+# `Thanos-Project`
 Python Project 
